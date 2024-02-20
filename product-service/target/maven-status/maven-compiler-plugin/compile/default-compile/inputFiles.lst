@@ -1,0 +1,7 @@
+/Users/utkutasguluk/Desktop/software/Github/microservices-new/product-service/src/main/java/com/programmingtechie/productservice/controller/ProductController.java
+/Users/utkutasguluk/Desktop/software/Github/microservices-new/product-service/src/main/java/com/programmingtechie/productservice/model/Product.java
+/Users/utkutasguluk/Desktop/software/Github/microservices-new/product-service/src/main/java/com/programmingtechie/productservice/repository/ProductRepository.java
+/Users/utkutasguluk/Desktop/software/Github/microservices-new/product-service/src/main/java/com/programmingtechie/productservice/dto/ProductRequest.java
+/Users/utkutasguluk/Desktop/software/Github/microservices-new/product-service/src/main/java/com/programmingtechie/productservice/dto/ProductResponse.java
+/Users/utkutasguluk/Desktop/software/Github/microservices-new/product-service/src/main/java/com/programmingtechie/productservice/ProductServiceApplication.java
+/Users/utkutasguluk/Desktop/software/Github/microservices-new/product-service/src/main/java/com/programmingtechie/productservice/service/ProductService.java

@@ -1,0 +1,8 @@
+com/programmingtechie/inventoryservice/dto/InventoryResponse.class
+com/programmingtechie/inventoryservice/util/DataLoader.class
+com/programmingtechie/inventoryservice/InventoryServiceApplication.class
+com/programmingtechie/inventoryservice/controller/InventoryController.class
+com/programmingtechie/inventoryservice/service/InventoryService.class
+com/programmingtechie/inventoryservice/repository/InventoryRepository.class
+com/programmingtechie/inventoryservice/dto/InventoryResponse$InventoryResponseBuilder.class
+com/programmingtechie/inventoryservice/model/Inventory.class
