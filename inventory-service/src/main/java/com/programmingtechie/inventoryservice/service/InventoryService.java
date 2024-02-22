@@ -15,6 +15,7 @@ import java.util.List;
 @Slf4j
 public class InventoryService {
 
+    // It is second class that I got error
     private final InventoryRepository inventoryRepository;
 
     @Transactional(readOnly = true)

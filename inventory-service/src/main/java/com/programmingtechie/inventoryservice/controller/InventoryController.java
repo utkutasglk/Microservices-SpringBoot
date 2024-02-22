@@ -15,7 +15,7 @@ import java.util.List;
 @Slf4j
 public class InventoryController {
 
-
+// Some bugs occur on this class : Null Pointer Exception
     private final InventoryService inventoryService;
 
     @GetMapping
